@@ -1,7 +1,7 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 *COMPANY*: CODTECH IT SOLUTIONS
-*NAME*: SATISH YADAV
-*INTERN ID*: CT08DH2104
+*NAME*: Rishabh Ramesh Singh
+*INTERN ID*: 
 *DOMAINA*: PYTHON
 *DURATION*: 8 WEEK
 *MENTOR* : NEELA SANTOSH
@@ -83,3 +83,4 @@ The script generates a visual forecast like this:
 ---
 
 Let me know if you'd like me to help generate a `README.md` file for upload, or modify it for Hindi or a personal portfolio format.
+
